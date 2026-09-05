@@ -79,7 +79,7 @@ Power BI was used to create an interactive dashboard focused on Philippine food 
 * Average Price
 * Latest Price
 * YoY Growth %
-* Retail Premium %
+* Price Volatility
 
 ### Key Visualizations
 
