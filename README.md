@@ -113,7 +113,6 @@ philippines-food-price-analytics/
 │
 ├── python/
 │   └── ETL_Automation.py
-
 │
 ├── sql/
 │   └── business_analysis.sql
@@ -121,13 +120,14 @@ philippines-food-price-analytics/
 ├── powerbi/
 │   └── food_price_dashboard.pbix
 │
-├── output/
-│   └── cleaned_food_prices.csv
+├── report/
+│   └── Philippines_Food_Price_Analysis_Report.pdf
 │
 ├── screenshots/
 │   └── dashboard.png
 │
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ## 📚 Data Source
